@@ -1,0 +1,52 @@
+.woo-cat-spartan-admin-page {
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 5px;
+}
+.woo-cat-spartan-admin-page h1 {
+    text-align: center;
+	color: #607182;
+    font-weight: 700;
+    font-size: 40px;
+}
+.woo-cat-spartan-admin-page h2 {
+    font-size: 25px;
+    color: #535454;
+    margin-bottom: 10px;
+}
+.woo-cat-spartan-admin-page ul.woo-cat-spartan li {
+    margin: 40px auto;
+}
+.woo-cat-spartan-admin-page ul.woo-cat-spartan p {
+    font-size: 16px;
+}
+.woo-cat-spartan-admin-page .spartan-title {
+    background-color: #efeeee;
+    padding: 50px;
+    border-radius: 30px;
+}
+.spartan-title:hover {
+    background-color: white;
+    box-shadow: 0px 5px 11px 6px #00000026;
+    transition: ease .3s;
+}
+.about-woo-cat-spartan:hover {
+    padding-left: 50px;
+    transition: ease .3s;
+}
+.about-woo-cat-spartan:hover h2 {
+    color: #44ff07;
+	transition: ease .3s;
+}
+.spartan-title:hover h1 {
+    color: #44ff07;
+    transition: ease .3s;
+}
+.woo-cat-spartan-admin-page li:hover {
+    padding-left: 50px;
+    transition: ease 0.3s;
+}
+.woo-cat-spartan-admin-page li:hover h2 {
+	color: #44ff07;
+    transition: ease .3s;
+}

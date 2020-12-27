@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Cat Spartan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 13:12+0000\n"
+"PO-Revision-Date: 2020-11-22 13:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: Urdu\n"
+"Language: ur\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: woo-cat-spartan.php:115
+msgid "About"
+msgstr ""
+"پلگ ان کے بارے میں\n"
+
+#: woo-cat-spartan.php:160
+msgid ""
+"Add Woo Cat Spartan revolution slider shortcode ([woo_cat_rev_slider]) on "
+"you category template. That's it"
+msgstr ""
+"اپنے زمرے کے سانچے پر وو کیٹ سپارٹن انقلاب سلائیڈر مختصر "
+"([woo_cat_rev_slider]) شامل کریں۔ یہی ہے"
+
+#: woo-cat-spartan.php:158
+msgid ""
+"Before Saving the changes copy the slug of category (on which slider be "
+"display)"
+msgstr ""
+"تبدیلیوں کو محفوظ کرنے سے پہلے زمرے کی سلگ کاپی کریں (جس پر سلائیڈر ڈسپلے ہو)"
+
+#: woo-cat-spartan.php:157
+msgid "Create a slider with revolution slider"
+msgstr "انقلاب سلائیڈر کے ساتھ ایک سلائیڈر تشکیل دیں"
+
+#: woo-cat-spartan.php:153 woo-cat-spartan.php:185 woo-cat-spartan.php:186
+msgid "Documentation"
+msgstr "دستاویزات"
+
+#: woo-cat-spartan.php:128
+msgid "Featured Products"
+msgstr "نمایاں مصنوعات"
+
+#: woo-cat-spartan.php:155
+msgid "How to add category specific slider on product category page"
+msgstr "مصنوعات کے زمرے کے صفحے پر زمرہ مخصوص سلائیڈر شامل کرنے کا طریقہ"
+
+#. Author URI of the plugin
+msgid "https://author.example.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://example.com/plugins/the-basics/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage woocommerce product category pages"
+msgstr "WooCommerce کے زمرے کے صفحات کا نظم کریں"
+
+#. Author of the plugin
+msgid "Muhammad Hamza Mairaj"
+msgstr "محمد حمزة ميراج"
+
+#: woo-cat-spartan.php:159
+msgid "Paste the slug on \"Alais\" of your slider"
+msgstr "اپنے سلائیڈر کے \"ایلیس\" پر سلگ چسپاں کریں"
+
+#: woo-cat-spartan.php:120
+msgid "Recent Products"
+msgstr "حالیہ مصنوعات"
+
+#: woo-cat-spartan.php:136
+msgid "Revolution Slider"
+msgstr ""
+
+#: woo-cat-spartan.php:124
+msgid "Sale Products"
+msgstr "فروخت کی مصنوعات"
+
+#: woo-cat-spartan.php:132
+msgid "Top Rated Products"
+msgstr "اعلی درجے کی مصنوعات"
+
+#: woo-cat-spartan.php:129
+msgid ""
+"Use this shortcode to display featured products on current category page"
+msgstr ""
+"موجودہ زمرے کے صفحے پر نمایاں مصنوعات کو ظاہر کرنے کے لئے اس مختصر کو "
+"استعمال کریں"
+
+#: woo-cat-spartan.php:121
+msgid "Use this shortcode to display recent products on current category page"
+msgstr ""
+"موجودہ زمرے کے صفحے پر حالیہ مصنوعات کو ظاہر کرنے کے لئے اس مختصر کو استعمال "
+"کریں"
+
+#: woo-cat-spartan.php:137
+msgid ""
+"Use this shortcode to display Revolution Slider relevant to current category "
+"page"
+msgstr ""
+"موجودہ زمرہ کے صفحے سے متعلق انقلاب سلائیڈر کو ظاہر کرنے کے لئے اس مختصر کو "
+"استعمال کریں"
+
+#: woo-cat-spartan.php:125
+msgid "Use this shortcode to display sales products on current category page"
+msgstr ""
+"موجودہ زمرہ کے صفحے پر فروخت کی مصنوعات کو ظاہر کرنے کے لئے اس مختصر کو "
+"استعمال کریں"
+
+#: woo-cat-spartan.php:133
+msgid ""
+"Use this shortcode to display top rated products on current category page"
+msgstr ""
+"موجودہ زمرے کے صفحے پر اعلی درجہ بندی والی مصنوعات کو ظاہر کرنے کے لئے اس "
+"مختصر کو استعمال کریں"
+
+#. Name of the plugin
+msgid "Woo Cat Spartan"
+msgstr ""
+
+#: woo-cat-spartan.php:116
+msgid ""
+"Woo Cat Spartan Only works with woocommerce plugin. You can use Woo Cat "
+"Spartan to get the recent, sale, top rated and featured products from "
+"current category to product category page. You can also add category "
+"specific revolution slider on product category page. You can use Elementor "
+"Pro to customize woocommerce category template. Use Woo Cat Spartan "
+"shortcodes to enhance product category page."
+msgstr ""
+"وو کیٹ اسپارٹن صرف WooCommerce پلگ ان کے ساتھ کام کرتا ہے۔ آپ موجودہ کیٹگری "
+"سے لے کر مصنوعات کے زمرے کے صفحے تک حالیہ ، فروخت ، ٹاپ ریٹیڈ اور نمایاں "
+"مصنوعات حاصل کرنے کے لئے وو کیٹ اسپارٹن کا استعمال کرسکتے ہیں۔ آپ زمرہ مخصوص "
+"انقلاب سلائیڈر کو مصنوعات کے زمرے کے صفحے پر شامل کرسکتے ہیں۔ آپ WooCommerce "
+"زمرے کے سانچے کو اپنی مرضی کے مطابق کرنے کے لئے عنصری پرو کا استعمال کرسکتے "
+"ہیں۔ پروڈکٹ زمرے کے صفحے کو بڑھانے کے لئے وو کیٹ اسپارٹن شارٹ کوڈز کا "
+"استعمال کریں۔"

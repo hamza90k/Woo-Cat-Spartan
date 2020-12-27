@@ -1,0 +1,122 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Cat Spartan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-22 13:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: woo-cat-spartan.php:115
+msgid "About"
+msgstr ""
+
+#: woo-cat-spartan.php:160
+msgid ""
+"Add Woo Cat Spartan revolution slider shortcode ([woo_cat_rev_slider]) on "
+"you category template. That's it"
+msgstr ""
+
+#: woo-cat-spartan.php:158
+msgid ""
+"Before Saving the changes copy the slug of category (on which slider be "
+"display)"
+msgstr ""
+
+#: woo-cat-spartan.php:157
+msgid "Create a slider with revolution slider"
+msgstr ""
+
+#: woo-cat-spartan.php:153 woo-cat-spartan.php:185 woo-cat-spartan.php:186
+msgid "Documentation"
+msgstr ""
+
+#: woo-cat-spartan.php:128
+msgid "Featured Products"
+msgstr ""
+
+#: woo-cat-spartan.php:155
+msgid "How to add category specific slider on product category page"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://author.example.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://example.com/plugins/the-basics/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage woocommerce product category pages"
+msgstr ""
+
+#. Author of the plugin
+msgid "Muhammad Hamza Mairaj"
+msgstr ""
+
+#: woo-cat-spartan.php:159
+msgid "Paste the slug on \"Alais\" of your slider"
+msgstr ""
+
+#: woo-cat-spartan.php:120
+msgid "Recent Products"
+msgstr ""
+
+#: woo-cat-spartan.php:136
+msgid "Revolution Slider"
+msgstr ""
+
+#: woo-cat-spartan.php:124
+msgid "Sale Products"
+msgstr ""
+
+#: woo-cat-spartan.php:132
+msgid "Top Rated Products"
+msgstr ""
+
+#: woo-cat-spartan.php:129
+msgid ""
+"Use this shortcode to display featured products on current category page"
+msgstr ""
+
+#: woo-cat-spartan.php:121
+msgid "Use this shortcode to display recent products on current category page"
+msgstr ""
+
+#: woo-cat-spartan.php:137
+msgid ""
+"Use this shortcode to display Revolution Slider relevant to current category "
+"page"
+msgstr ""
+
+#: woo-cat-spartan.php:125
+msgid "Use this shortcode to display sales products on current category page"
+msgstr ""
+
+#: woo-cat-spartan.php:133
+msgid ""
+"Use this shortcode to display top rated products on current category page"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Cat Spartan"
+msgstr ""
+
+#: woo-cat-spartan.php:116
+msgid ""
+"Woo Cat Spartan Only works with woocommerce plugin. You can use Woo Cat "
+"Spartan to get the recent, sale, top rated and featured products from "
+"current category to product category page. You can also add category "
+"specific revolution slider on product category page. You can use Elementor "
+"Pro to customize woocommerce category template. Use Woo Cat Spartan "
+"shortcodes to enhance product category page."
+msgstr ""
